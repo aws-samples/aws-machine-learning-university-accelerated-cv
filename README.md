@@ -1,6 +1,6 @@
 ## AWS Machine Learning Accelerated Computer Vision Class
 
-This repository contains lecture slides and notebooks for the AWS Machine Learning Accelerated Computer Vision Class. This class is designed to help you get started with Computer Vision, learn state-of-the approaches and apply them on real-world problems. The content is based on Amazon's Machine Learning University Accelerated Computer Vision class.
+This content is based on Machine Learning University (MLU) Accelerated Computer Vision class. Our mission is to make Machine Learning accessible to everyone. We believe machine learning will be a tool for success for many people in their careers. We teach machine learning courses in different topics. This class is designed to help you get started with Computer Vision, learn widely used techniques and apply them on real-world problems.
 
 If you would like to contribute to the project, see [CONTRIBUTING](CONTRIBUTING.md) for more information.
 
