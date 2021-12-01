@@ -1,0 +1,17 @@
+name: mlu-cv
+dependencies:
+  - python=3.7
+  - pip
+  - pip:
+    - pip==21.3.1
+    - matplotlib==3.3.4
+    - seaborn==0.11.2
+    - scikit-learn==0.24.2
+    - setuptools==58.4.0
+    - wheel==0.37.0
+    - opencv-python-headless==4.5.4.60
+    - mxnet-cu112==1.8.0.post0
+    - d2l==0.17.0
+    - autogluon==0.3.2b20211110
+    - torch==1.9.0
+    - torchvision==0.10.0
