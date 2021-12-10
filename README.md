@@ -17,7 +17,7 @@ There are three lectures and one final project for this class.
 | Neural Networks | Modern CNNs: LeNet and AlexNet | Semantic Segmentation |
 | Convolutional Neural Networks | Model fine-tuning | |
 
-__Final Project:__ Practice working with a "real-world" computer vision dataset for the final project. Final project dataset is in the [data/final_project_dataset folder](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv/tree/master/data/final_project_dataset). For more details on the final project, check out [this notebook](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv/blob/master/notebooks/MLA-CV-Lecture1-Final-Project.ipynb).
+__Final Project:__ Practice working with a "real-world" computer vision dataset for the final project. Final project dataset is in the [data/final_project_dataset folder](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv/tree/master/data/final_project_dataset). For more details on the final project, check out [this notebook](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv/blob/master/notebooks/MLA-CV-DAY1-Final-Project.ipynb).
 
 ## Contribute
 If you would like to contribute to the project, see [CONTRIBUTING](CONTRIBUTING.md) for more information.
