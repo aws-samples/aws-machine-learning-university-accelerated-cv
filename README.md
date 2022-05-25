@@ -10,12 +10,34 @@ Watch all Computer Vision class video recordings in this [YouTube playlist](http
 
 ## Course Overview
 There are three lectures and one final project for this class.
-| Lecture 1 | Lecture 2 | Lecture 3 |
-| :---: | :---: | :---: |
-| Intro to ML | Image Datasets | Advanced CNNs: VGGNet and ResNet |
-| Intro to Computer Vision | Training Neural Networks | Object Detection |
-| Neural Networks | Modern CNNs: LeNet and AlexNet | Semantic Segmentation |
-| Convolutional Neural Networks | Model fine-tuning | |
+
+Lecture 1
+
+| title | studio lab |
+| :---: | ---: |
+| Intro to ML | - |
+| Intro to Computer Vision | - |
+| Neural Networks | Gluon [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-cv/blob/master/notebooks/MLA-CV-DAY1-NN.ipynb)<br> PyTorch  [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-cv/blob/master/notebooks/pytorch/MLA-CV-DAY1-NN.ipynb)|
+| Convolutional Neural Networks | Gluon [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-cv/blob/master/notebooks/MLA-CV-DAY1-CNN.ipynb)<br> PyTorch [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-cv/blob/master/notebooks/pytorch/MLA-CV-DAY1-CNN.ipynb)|
+| Final Project | Gluon [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-cv/blob/master/notebooks/MLA-CV-DAY1-Final-Project.ipynb) <br> PyTorch  [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-cv/blob/master/notebooks/pytorch/MLA-CV-DAY1-Final-Project.ipynb)|
+
+Lecture 2
+
+| title | studio lab |
+| :---: | ---: |
+| Image Datasets | - |
+| Training Neural Networks | - |
+| Modern CNNs: LeNet and AlexNet | Gluon [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-cv/blob/master/notebooks/MLA-CV-DAY2-Transfer-Learning.ipynb) <br> PyTorch [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-cv/blob/master/notebooks/pytorch/MLA-CV-DAY2-Transfer-Learning.ipynb)|
+| Model fine-tuning | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-cv/blob/master/notebooks/MLA-CV-DAY2-AutoGluon-CV/MLA-CV-DAY2-AutoGluon-CV.ipynb)|
+
+Lecture 3
+
+| title | studio lab |
+| :---: | ---: |
+| Advanced CNNs: VGGNet and ResNet |Gluon [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-cv/blob/master/notebooks/MLA-CV-DAY3-ResNet.ipynb) <br> PyTorch [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-cv/blob/master/notebooks/pytorch/MLA-CV-DAY3-ResNet.ipynb) |
+| Object Detection | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-cv/blob/master/notebooks/MLA-CV-DAY3-YOLO.ipynb)|
+| Semantic Segmentation | - |
+
 
 __Final Project:__ Practice working with a "real-world" computer vision dataset for the final project. Final project dataset is in the [data/final_project_dataset folder](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv/tree/master/data/final_project_dataset). For more details on the final project, check out [this notebook](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv/blob/master/notebooks/MLA-CV-DAY1-Final-Project.ipynb).
 
