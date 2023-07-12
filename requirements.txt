@@ -7,6 +7,7 @@ wheel==0.38.1
 opencv-python-headless==4.5.4.60
 mxnet-cu112==1.9.1
 d2l==0.17.0
-autogluon.vision==0.6.3b20230126
+opencv-python==4.5.5.64
+autogluon.vision==0.5.3
 torch==1.13.1
 torchvision==0.14.1
