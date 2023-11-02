@@ -1,4 +1,4 @@
-pip==21.3.1
+pip==23.3
 matplotlib==3.3.4
 seaborn==0.11.2
 scikit-learn==1.0.0
