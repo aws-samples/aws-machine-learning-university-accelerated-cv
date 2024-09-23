@@ -3,8 +3,8 @@ wheel==0.43.0
 matplotlib==3.8.4
 nltk==3.9.1
 scikit-learn>=1.4.0
-opencv_python_headless==4.10.0.84
-autogluon==1.1.1
+opencv-python-headless==4.10.0.84
+autogluon.multimodal==1.1.1
 seaborn>=0.13.2
 ipykernel==6.29.5
 ultralytics==8.2.95
