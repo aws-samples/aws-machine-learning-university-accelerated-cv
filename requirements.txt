@@ -8,5 +8,5 @@ opencv-python-headless==4.5.4.60
 mxnet-cu112==1.9.1
 d2l==0.17.0
 autogluon.vision==0.6.3b20230126
-torch==1.13.1
+torch==2.2.0
 torchvision==0.14.1
